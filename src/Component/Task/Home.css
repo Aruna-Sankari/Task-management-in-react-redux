@@ -1,0 +1,10 @@
+.table2{
+    margin:auto;
+    margin-top:100px;
+    padding:10px;
+    border-collapse: collapse;
+}
+.thead ,.tcon{
+    border:3px solid black;
+    padding:10px;
+}
